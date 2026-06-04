@@ -1,71 +1,113 @@
-# Hey, I'm Saunok Roy 👋
+<h1 align="center">Hey, I'm Saunok Roy 👋</h1>
 
-Electronics & Communication Engineering student at VIT Vellore, building at the intersection of embedded systems, IoT, and full-stack development.
+<p align="center">
+  Electronics & Communication Engineering @ VIT Vellore &nbsp;|&nbsp; CGPA: 9.02<br/>
+  Building at the intersection of <strong>Embedded Systems</strong>, <strong>IoT</strong>, and <strong>Full-Stack Development</strong>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" />
+  <img src="https://skillicons.dev/icons?i=go" height="45" title="Go" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" title="Python" />
+  <img src="https://skillicons.dev/icons?i=r" height="45" title="R" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS" />
+</p>
 
 ### Embedded Systems & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003D6E?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square)
-![8051 Assembly](https://img.shields.io/badge/8051_Assembly-6D6D6D?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" title="Arduino / ESP32 / ESP8266" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoWidth=20" height="45" />
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white&logoWidth=20" height="45" />
+  <img src="https://img.shields.io/badge/FreeRTOS-003D6E?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/Verilog_HDL-543978?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/8051_Assembly-6D6D6D?style=for-the-badge" height="45" />
+</p>
 
 ### Communication Protocols
-![UART](https://img.shields.io/badge/UART-607D8B?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-607D8B?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-607D8B?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![TCP](https://img.shields.io/badge/TCP-607D8B?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/UART-607D8B?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/I2C-607D8B?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/SPI-607D8B?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/TCP-607D8B?style=for-the-badge" height="45" />
+</p>
 
 ### Frameworks & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="45" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=go" height="45" title="Gin (Go)" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="45" />
+</p>
 
 ### Cloud, Database & IoT Platforms
-![AWS IoT Core](https://img.shields.io/badge/AWS_IoT-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-00C98D?style=flat-square)
-![Thingspeak](https://img.shields.io/badge/Thingspeak-E8002D?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" title="Supabase" />
+  <img src="https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Blynk-00C98D?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/ThingSpeak-E8002D?style=for-the-badge" height="45" />
+</p>
 
 ### EDA & Simulation Tools
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B3042D?style=flat-square)
-![ModelSim](https://img.shields.io/badge/ModelSim-0071C5?style=flat-square)
-![Cadence AWR](https://img.shields.io/badge/Cadence_AWR-B3042D?style=flat-square)
-![Keil uVision](https://img.shields.io/badge/Keil_uVision-009999?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-B3042D?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/ModelSim-0071C5?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/Cadence_AWR-B3042D?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/Keil_uVision-009999?style=for-the-badge" height="45" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sp4m-08&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp4m-08&layout=compact&theme=default&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sp4m-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp4m-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sp4m-08&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/saunok/">
+    <img src="https://leetcard.jacoblin.cool/saunok?theme=dark&font=Nunito&ext=heatmap" width="60%" />
+  </a>
 </p>
 
 ---
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saunok-roy/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roysaunok@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/saunok-roy/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:roysaunok@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/saunok/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45" />
+  </a>
+</p>

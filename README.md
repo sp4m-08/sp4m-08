@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Keil_uVision-009999?style=for-the-badge" height="45" />
 </p>
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -94,7 +94,7 @@
   </a>
 </p>
 
----
+--->
 
 ## 📬 Connect
 

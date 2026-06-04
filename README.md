@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Saunok Roy 👋</h1>
 
 <p align="center">
-  Electronics & Communication Engineering @ VIT Vellore &nbsp;|&nbsp; CGPA: 9.02<br/>
+  Electronics & Communication Engineering @ VIT Vellore &nbsp;|&nbsp; CGPA: 9.1<br/>
   Building at the intersection of <strong>Embedded Systems</strong>, <strong>IoT</strong>, and <strong>Full-Stack Development</strong>
 </p>
 
